@@ -28,10 +28,10 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p> Account aithen? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Hatranimaga, Happy Learning </h1>
+   <h1> Maja Madri, Happy Learning </h1>
 
 
 </form>
