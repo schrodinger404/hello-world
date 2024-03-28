@@ -4,15 +4,15 @@
     <p>Form fill madi Account create madkori</p>
     <hr>
 
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Nimma Hesaru</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Nimm mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Nimm Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
