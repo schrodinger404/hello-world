@@ -23,7 +23,7 @@
     <label for="psw-repeat"><b>Repeat Passwod</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
-
+    <button type="submit" class="registerbtn">Register</button>
   </div>
 
    <h1> Maja Madri, Happy Learning </h1>
