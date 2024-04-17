@@ -26,7 +26,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
-   <h1> All The Best, Happy Learning </h1>
+   <h1> All The Best, Happy Learning. SK </h1>
 
 
 </form>
