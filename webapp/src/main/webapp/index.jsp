@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Revising DevOps with Shreekant hatra nimag</h1>
+    <h1>Revising DevOps with Shreekant</h1>
     <p>Form fill madi Account create madkori</p>
     <hr>
 
@@ -26,7 +26,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
-   <h1> Maja Madri, Happy Learning </h1>
+   <h1> All The Best, Happy Learning </h1>
 
 
 </form>
